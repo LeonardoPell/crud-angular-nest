@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic preta",
+      "price": 1.99
+    },
+    {
+      "id": 2,
+      "name": "Caneta bic vermelha",
+      "price": 1.99
+    },
+    {
+      "id": 3,
+      "name": "Borracha padrão",
+      "price": 0.99
+    },
+    {
+      "name": "Estojo camuflado",
+      "price": 15,
+      "id": 4
+    }
+  ]
+}
